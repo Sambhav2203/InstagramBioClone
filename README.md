@@ -3,11 +3,12 @@ Android Study Jam
 
 APK file link - https://drive.google.com/file/d/1RgebBKMZjgpzu6T_Z4twst-rRI7bBiZ6/view?usp=sharing
 
-Whenever,we use Instagram and post something , we sometime want to put a linkto our articls,blogs,etc . To Overcome this problem, Instagram Bio Clone was developed.
 
 ScreenShots Link- https://drive.google.com/file/d/1uSJYCFUmA4fSgLh5_9asB_GBRR2aqW2s/view?usp=sharing
 
-
+                                                                Problem Statement and Solution
+Whenever,we use Instagram and post something , we sometime want to put a linkto our articls,blogs,etc . To Overcome this problem, Instagram Bio Clone was developed.
+                                                                
 
                                                                  Functionalities
 The App has a very simple and interactive ui which make it easier to understand the flow of the app. Following are few android concepts used to achieve the functionalities in app :
